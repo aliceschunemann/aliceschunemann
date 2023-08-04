@@ -1,6 +1,6 @@
 - 🐱‍👤 Hi, I’m @aliceschunemann 
 - 🎈 Interested in programming, logic and everything that challenges me! 
-- 🎲 Currently learning ReactJS 
+- 🎲 Currently learning ReactJS, Asp.NET and Entity Framework
 - 🛸 How to reach me: ali.schunemann@gmail.com 
 
 <!---
